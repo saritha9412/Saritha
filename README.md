@@ -1,5 +1,4 @@
 # Saritha
-Developer
 Hi Developers 👋
 YouTube Badge Linkedin Badge Website Badge Website Badge
 
@@ -15,4 +14,29 @@ Adobe XD Figma Bootstrap Java PHP HTML5 CSS3 NodeJS React Angular Azure MySQL Mo
 
 
 
-Pinned
+About
+No description, website, or topics provided.
+Resources
+ Readme
+Stars
+ 5 stars
+Watchers
+ 6 watching
+Forks
+ 42 forks
+Releases
+No releases published
+Packages
+No packages published
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
